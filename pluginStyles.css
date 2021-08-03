@@ -1,0 +1,9 @@
+.hd-espw-social-icons__item-link {
+	color: green;
+}
+
+.icon-facebook {
+    font-family: "Font Awesome 5"; 
+	font-weight: 400;
+	content: "\f09a";
+} 
